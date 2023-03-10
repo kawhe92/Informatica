@@ -1,0 +1,27 @@
+.container{
+    background-color: black;
+    width: 1700px;
+    height: 1000px;
+    text-align: center;
+}
+.nav{
+    padding: 1px;
+    background-color: purple;
+    text-align: center;
+}
+.nav-link{
+    padding: 0.8rem;
+    text-decoration: none;
+    color: #fff;
+    font-family: Bold;
+}
+article{
+    padding: 1.0rem;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+    color: #fff;
+}
